@@ -1,2 +1,2 @@
 # hello-world
-Repo setup practise
+This is the first step of setting up the project in github
